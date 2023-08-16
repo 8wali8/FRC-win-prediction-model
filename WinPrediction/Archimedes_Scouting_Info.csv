@@ -1,0 +1,81 @@
+Archimedes Division,,Team Input,,,,,,,,,,,,Statbotics Data,,,,,,,,,
+,,,,,,,,,,,,,,Overall,,,Scoring Period,,Scoring Location,,,Game Piece Type,
+Team Number (linked to FRC Events),"Team Name
+(linked to Statbotics)",Drive Train Type,Robot Weight,Robot Width (with Bumpers),Robot Length (with Bumpers),Game Piece Capability,Game Piece Acquisition,Game Piece Scoring,Center Autonomous Routine,Non-Cable Protector Autonomous Routine,Cable Protector Autonomous Routine,Endgame Assistance,Comments,EPA,Total Pieces,Links,Auto Pieces,Teleop Pieces,Bottom Pieces,Middle Pieces,High Pieces,Cubes Scored,Cones Scored
+4,Team 4 ELEMENT,Tank,,,,,None,,,,,,,27.5,4.1,1.2,0.8,3.3,3,0.8,0.4,2.6,1.5
+27,Team RUSH,Swerve,115,27,29,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,Forks,,56,7.1,2,1.7,5.4,1,2.7,3.4,2.5,4.6
+33,Killer Bees,Swerve,125,30,30,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,None,,56.5,8.2,2.3,1.9,6.3,2.3,2.8,3.2,3.6,4.6
+70,More Martians,Swerve,,,,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility + Score 1,None,,52.8,6.8,1.7,1.7,5.1,1.2,2.1,3.4,2.3,4.5
+78,AIR STRIKE,Swerve,85,30,30,Cones & Cubes,Double Substation + Floor,Cubes All Three Rows; Cones Hybrid + Mid,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Score 1 + Acquire 1,None,,44.9,7.3,2.1,0.9,6.3,1.4,4.5,1.4,2.6,4.6
+111,WildStang,Swerve,110,26,26,Cones & Cubes,Double Substation + Floor,All Three Rows,,Score Preloaded + Mobility + Score 2 + Engage,Score Preloaded + Mobility + Score 2,None,,70.3,9.8,3.1,2,7.8,1.5,4.2,4.1,3.7,6.1
+118,Robonauts,Swerve,120,32,32,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,Forks,"Texas District State Champions, with 3005",57.7,8.9,3.1,1.6,7.4,3.6,1.9,3.4,3.7,5.2
+120,Clevelands Team,Swerve,,,,,,,,,,,,34.8,5.1,1.4,1,4.1,3.6,1.6,-0.2,4.2,0.9
+254,The Cheesy Poofs,Swerve,115,,,Cones & Cubes,Double Substation + Floor,All Three Rows,,,,Forks,,80.2,11.6,3.9,1.7,9.9,3.5,4.2,3.9,5.1,6.5
+324,Chips,Tank,,,,Cones & Cubes,,All Three Rows,,,,,,46.7,6.7,1.9,1.1,5.5,1,2.1,3.6,2.4,4.3
+548,Robostangs,Swerve,124,33,29,Cones & Cubes,Double Substation + Floor,All Three Rows,,,,None,,39.7,5.4,1.6,1,4.4,0.8,1.4,3.1,1.6,3.7
+624,CRyptonite,Swerve,119,35,31,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 2 + Acquire 1,Score Preloaded + Mobility + Score 1,None,,55.9,8.1,2.7,1.5,6.5,3,1,4.1,4.1,4
+687,The Nerd Herd,Swerve,,,,,,,,,,,,46.9,6.6,2.1,0.9,5.6,0.3,1.5,4.8,1.9,4.7
+834,SparTechs,Swerve,,35,35,Cones & Cubes,Both Substations + Floor,All Three Rows,,,,None,,49.5,6.5,2,1.4,5.2,1.1,1.8,3.7,2.3,4.2
+862,Lightning Robotics,Swerve,123,31,31,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility,None,,54.2,7.8,2,1,6.8,2.9,1.6,3.3,3,4.8
+972,Iron Claw,Swerve,96,,,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Acquire 1 + Engage,,,None,,51.9,8.1,2.4,1.2,6.9,2.2,1.2,4.7,3.9,4.2
+1102,MAiken Magic,Swerve,110,31,36,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 3 + Acquire 1,Score Preloaded + Mobility + Score 1 + Acquire 1,None,,43,6.6,1.9,1.6,5.1,1.8,1.3,3.5,2.4,4.2
+1189,The Gearheads,Swerve,115,28,29,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Acquire 1 + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility,None,End Defector is a set of fin ray style 3D printed TPU Grippers,52.1,6.4,1.6,1.7,4.7,1.5,1.5,3.4,2.3,4.1
+1481,The Riveters,Swerve,107,32.5,39.5,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Acquire 1,None,,43.7,5.5,1.4,0.9,4.6,1.4,1.3,2.9,2.9,2.6
+1561,ROBODUCKS,Swerve,64,30,30,Cubes Only,Floor Only,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 2 + Engage,Score Preloaded + Mobility + Score 2,None,,42.8,8,2,1.1,6.8,4.6,2,1.3,6.6,1.4
+1574,MisCar,Swerve,,,,Cones & Cubes,,All Three Rows,,,,,,50.3,6.7,2,1.4,5.3,1.9,0.4,4.4,2.9,3.8
+1577,Steampunk,Swerve,,,,Cones & Cubes,,All Three Rows,,,,,,63.9,9.5,3.2,1,8.4,2.6,2.9,3.9,3.9,5.6
+1619,Up-A-Creek Robotics,Swerve,,,,Cones & Cubes,,All Three Rows,,,,,,65.5,8.1,2.6,1.4,6.7,1.5,1,5.6,3.1,4.9
+1700,Gatorbotics,Swerve,,,,,,,,,,,,31.9,5.1,1.8,0.7,4.4,4,-0.3,1.4,0.8,4.3
+1768,Nashoba Robotics,Swerve,,,,,,,,,,,,52.4,7.7,2.4,1.4,6.3,1.8,2.5,3.4,3.4,4.3
+1884,Griffins,Swerve,,,,,,,,,,,,12.6,2.7,0,0.1,2.6,1.6,0.4,0.6,2.2,0.5
+2056,OP Robotics,Swerve,106,28,32,Cones & Cubes,Single Substation + Floor,All Three Rows,,Score Preloaded + Mobility + Score 3 + Engage,Score Preloaded + Mobility + Score 3,None,,84.9,12.3,4,2.7,9.5,2.8,4.4,5.1,4.1,8.2
+2106,The Junkyard Dogs,Swerve,,,,Cones & Cubes,Double Substation + Floor,Cubes All Three Rows; Cones Hybrid + Mid,,,,,,36.6,5.8,1.5,1.2,4.6,1.5,1.6,2.7,2.7,3.1
+2202,BEAST Robotics,Swerve,,,,,,,,,,,,47.9,6.6,2.1,1.2,5.4,4.8,0.3,1.6,2.7,3.9
+2220,Blue Twilight,Swerve,110,32.5,32.5,Cones & Cubes,Single Substation + Floor,Cubes All Three Rows; Cones Hybrid + Mid,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility,None,,32,4.6,0.7,1,3.6,1.9,1.4,1.5,3.9,0.8
+2457,The Law,Swerve,,,,,,,,,,,,28,4,0.8,0.5,3.5,2.3,0.9,0.9,2.8,1.2
+2468,Team Appreciate,Swerve,,,,Cones & Cubes,Single Substation + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,,Score two and balance from all three positions.  ,62.1,9.8,3.2,1.7,8.1,2.4,4,3.5,4.2,5.6
+2506,Saber Robotics,Tank,110,,,Cones & Cubes,Double Substation Only,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility,Score Preloaded + Mobility,None,,30.5,3.5,1,1.1,2.4,1.3,-0.5,2.7,1.6,1.9
+2582,PantherBots,Swerve,105,,,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility + Score 1,None,,43.9,5.7,1.7,1.4,4.4,1.2,1,3.6,2.4,3.4
+2607,The Fighting RoboVikings,Swerve,,,,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 2,,Wheel Deployment,,47.3,5.7,1.8,0.9,4.8,1.8,-0.1,3.9,3.5,2.2
+2687,Team Apprentice,Swerve,,,,Cones & Cubes,Single Substation + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 3,Score Preloaded + Mobility + Score 3,None,Score two and balance from all three positions.  ,61.3,10.1,3.1,1.6,8.5,2.7,3.8,3.6,5,5.1
+2847,The MegaHertz,Swerve,76,,,Cones & Cubes,,,,,,,,42.3,5.4,1.3,1.4,4,0.7,1.4,3.3,1.8,3.6
+2875,CyberHawks,Swerve,,,,,,,,,,,,31.2,3.8,0.6,0.8,3,0,0.8,3.1,1.4,2.4
+2905,Sultans of Turkiye,Mecanum,,,,,,,,,,,,16.4,2.7,0.4,0.6,2.1,2,1.1,-0.3,3,-0.3
+3015,Ranger Robotics,Swerve,124,,,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 3,Score Preloaded + Mobility + Score 3,Other,"Auto scoring, 3x regional winners",58.8,8,2.5,2,6,0.6,3.7,3.7,2.3,5.8
+3061,Huskie Robotics,Swerve,124,31,31,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,None,,43.9,5.4,1.4,1,4.4,1.7,1.1,2.6,2.3,3.2
+3130,The ERRORs,Swerve,,,,,,,,,,,,35.9,5.2,1.5,1,4.2,3.3,0.3,1.7,3.9,1.3
+3142,Aperture,Tank,,32.5,37.5,"Cones auto, Cubes teleop",Floor Only,"High and Mid Auto, Hybrid Teleop",Score Preloaded + Mobility + Engage,Score Preloaded + Mobility,Score Preloaded + Mobility,None,,39.8,6,1.8,0.9,5.1,4.2,0.6,1.2,4.6,1.5
+3256,WarriorBorgs,Swerve,,,,,,,,,,,,26.1,3.4,0.6,1,2.4,0.8,0.4,2.3,2,1.4
+3322,Eagle Evolution,Tank,,,,,,,,,,,,37.1,5.4,1.5,1.1,4.3,1.5,3.4,0.5,2.6,2.8
+3459,Team PyroTech,Swerve,,,,,,Cubes All Three Rows; Cones Hybrid + Mid,,,,,,22.2,2.6,0.5,0.1,2.5,1.7,0.2,0.7,2.2,0.4
+3663,CPR - Cedar Park Robotics,Swerve,,,,Cones & Cubes,Double Substation + Floor,All Three Rows,,,,,,57.7,8.6,2.3,1.6,7,2.1,3.7,2.8,4.1,4.5
+4028,The Beak Squad,Swerve,118,32,36,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Score 1 + Acquire 1,Wheel Deployment,Also have Score Preloaded + Mobility + Score 1 + Engage auton both sides,64.6,8.6,3,1.5,7.1,2.9,1.6,4.1,3.6,5
+4362,CSPA Gems,Swerve,21,,,,,,,,,,,54.8,7.6,2.2,2.1,5.5,1.9,2.4,3.3,3.5,4.1
+4373,RooBotics,Tank,,,,Cones & Cubes,,,,,,,,51.5,6.9,1.8,1.6,5.2,0.6,2.7,3.5,2.3,4.6
+4476,W.A.F.F.L.E.S.,Swerve,121,30,40,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility + Score 1,Wheel Deployment,,52.8,6.5,1.9,1.2,5.3,1.1,1.5,4,2.4,4.2
+4598,ICARUS INNOVATED,Tank,,30,,Cones & Cubes,,,,,,,,26.6,4.2,0.8,1.3,2.9,1.4,0.7,2.2,2.4,1.8
+4903,Mustangs,Swerve,,,,Cones & Cubes,Both Substations,All Three Rows,Score Preloaded + Mobility + Engage,,,,,51.3,7.7,2.4,1.1,6.6,1.7,2.7,3.4,2.9,4.9
+5045,SpartaBot,Tank,,,,,,,,,,,,8.5,1.5,0,0.3,1.2,1.2,0.1,0.3,0.9,0.7
+5232,Talons,Swerve,120,30,33,Cones Only,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Acquire 1,None,,51.8,6.4,1.6,0.7,5.7,0.5,2.5,3.4,0.9,5.5
+5635,Demacia,Swerve,,,,,,,,,,,,33,4.6,1,1.2,3.5,1.2,2.4,1,2,2.6
+5809,The Jesubots 5809,Swerve,,,,Cones & Cubes,Single Substation Only,All Three Rows,Score Preloaded + Engage,,,None,,31.1,5.5,1.1,0.9,4.6,2.1,0.6,2.8,2.4,3.1
+5993,Istech Robotics Society,Tank,,,,,,,,,,,,23.5,3.6,0.7,0.8,2.8,0.9,0.4,2.3,2,1.7
+6002,ZooBOTix,Swerve,89,29,33,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Acquire 1 + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 1 + Acquire 1,None,,55.2,7.7,2.6,1.5,6.2,3,1.7,3,2.9,4.8
+6036,Peninsula Robotics,Swerve,124.9,,,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,None,,69.3,10.3,3.3,1.9,8.4,1.9,3.2,5.2,4.5,5.8
+6078,RoboRams,Swerve,,,,Cones & Cubes,Double Substation Only,All Three Rows,Score Preloaded + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility,Forks,,42.3,6.7,1.8,0.9,5.7,1.1,2.8,2.8,1.9,4.8
+6328,Mechanical Advantage,Swerve,123,31,31,Cones & Cubes,Both Substations + Floor,All Three Rows,Score Preloaded + Mobility + Score 1 + Engage,Score Preloaded + Mobility + Score 2,Score Preloaded + Mobility + Score 2,None,,58.3,8.6,2.2,2.6,6,1,4.4,3.2,2.7,5.9
+7174,Charger Robotics,Swerve,115,33,33,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility,Score Preloaded + Mobility,None,,39.8,4.8,1.2,1,3.8,1.9,1.2,1.7,1.8,3.1
+7211,Hollywood,Swerve,123.9,32,38,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Acquire 1,None,,52.3,7.4,2.3,1.8,5.6,1.1,3.3,3,2.3,5
+7444,Moon Star Robotics,Swerve,,,,,,,,,,,,43.5,5.6,1.3,1,4.5,1.2,0.5,3.9,2.6,3
+7563,SESI SENAI MEGAZORD,Tank,,,,,,,,,,,,41.9,4.7,1.3,0.9,3.8,0.3,0.6,3.9,1.4,3.3
+8085,MOJO,Swerve,120,24,24,Cones & Cubes,Single Substation + Floor,All Three Rows,Score Preloaded + Mobility + Engage,Score Preloaded + Mobility + Score 1,Score Preloaded + Mobility + Score 1,None,,48.1,7.2,2,1.3,5.9,1.9,2,3.3,2.6,4.6
+8159,Golden Horn,Swerve,,,,,,,,,,,,20.2,2.7,0.1,-0.1,2.7,1.3,0.4,0.9,1.7,1
+8724,Mayhem,Tank,114,29,29,Cones & Cubes,Double Substation + Floor,All Three Rows,Score Preloaded + Engage,Score Preloaded + Mobility + Score 1 + Acquire 1,Score Preloaded + Mobility + Score 1,None,,44.5,6,1.6,1.3,4.7,0.8,2.3,2.9,2.2,3.8
+8729,Sparkling H2O,Tank,,,,,,,,,,,,30.2,3.9,0.6,0.8,3.2,1.7,1.1,1,3,1
+9038,SF UNITY,Tank,,,,Cones & Cubes,Double Substation Only,All Three Rows,Score Preloaded Only,Score Preloaded + Mobility,Score Preloaded + Mobility,None,,33.3,4.4,1.2,1,3.4,0.8,-0.1,3.7,1.7,2.7
+9059,COLTech Robotics,Tank,,,,,,,,,,,,19.7,2.8,0.2,0.6,2.2,1.4,0.8,0.6,1.1,1.7
+9067,The Goonies,Tank,,,,Cones & Cubes,,,,,,None,,27.4,3.5,0.7,0.8,2.7,2.7,0.2,0.5,1.4,2.1
+9101,HiveMind Robotics,Tank,,,,Cubes Only,,Hybrid Only,Score Preloaded + Mobility + Engage,,,,,34.2,5.6,1.5,0.7,4.8,4.1,0.5,0.9,5,0.5
+9134,Tecmilenio - DEVOLT,Tank,,,,Cones & Cubes,Both Substations + Floor,,Score Preloaded Only,,,,,29,3.6,0.6,1.1,2.5,1.1,0.4,2.1,1.9,1.7
+9148,Atlas,Tank,,,,Cones & Cubes,Double Substation + Floor,All Three Rows,,Score Preloaded + Mobility,Score Preloaded + Mobility,None,,9.6,1.7,0,0.1,1.6,0.8,0.3,0.6,1.2,0.5
+9180,GHS Robotics - Ursa Major,Tank,,,,Cubes Only,,Hybrid Only,,,,,,24.3,4,0.9,0.9,3.1,3.9,0,0.1,4.5,-0.4
