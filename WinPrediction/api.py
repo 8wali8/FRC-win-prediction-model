@@ -31,6 +31,8 @@ for y in events:
 df = pd.DataFrame(dictionary)
 print(df)
 
+df.to_csv('2023epastatistics.csv')
+
 #assigning data to df from one event
 # dictionary = []
 # z = 0
