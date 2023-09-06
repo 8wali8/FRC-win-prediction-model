@@ -24,13 +24,23 @@ for y in events:
         print("match number: " + str(z))
         #iterates through teams in matches
         for i in alliance:
+            #assigning team number to team
             team = sb.get_match(match = nummatch, fields = [i]).get(i)
+            #assigning epa values to dict
             dict = (sb.get_team_match(match = nummatch, team = team, fields = ["team", "epa", "auto_epa", "teleop_epa", "endgame_epa", "rp_1_epa", "rp_2_epa"]))
+            #add win/loss to dict
+            if sb.get_team_match(team = team, match = nummatch, fields = ["alliance"]) == sb.get_match(match = nummatch, fields = ["winner"]):
+                dict.update({"win":1})
+            else:
+                dict.update({"win":0})
+            #adding iteration dict to full dictionary
             dictionary.append(dict)
 
+#changing dictionary to df
 df = pd.DataFrame(dictionary)
 print(df)
 
+#assigning to csv file
 df.to_csv('2023epastatistics.csv')
 
 #assigning data to df from one event
@@ -56,4 +66,14 @@ df.to_csv('2023epastatistics.csv')
 # df = pd.DataFrame(dictionary)
 # print(df)
 
+#add win/loss to dictionary
+# dict = sb.get_team_match(team = 56, match = "2019cur_qm1")
+
+# if sb.get_team_match(team = 56, match = "2019cur_qm1", fields = ["alliance"]) == sb.get_match(match = "2019cur_qm1", fields = ["winner"]):
+#     dict.update({"win":1})
+# else:
+#     dict.update({"win":0})
+
+
+# print(dict)
 
